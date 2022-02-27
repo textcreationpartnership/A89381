@@ -1,0 +1,365 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Most wonderful and true relation of Master John Macklain minister of Gods word at Lesbury in the county of Northumberland, who being one hundred and sixteen years of age, was miraculously restored to a youthful vigour and complexion, new haire growing upon his head, new teeth in his mouth, and his eyes restored to a most cleer and perfect sight, after the use of spectacles for almost forty years together. As also his recovery to a perfect strength again in every part of his body, so that now he preacheth constantly every Lords day in the parish aforesaid.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1657</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89381</idno>
+            <idno type="STC">Wing M2934</idno>
+            <idno type="STC">Thomason E1635_3</idno>
+            <idno type="STC">ESTC R209043</idno>
+            <idno type="EEBO-CITATION">99867951</idno>
+            <idno type="PROQUEST">99867951</idno>
+            <idno type="VID">170185</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89381)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170185)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 206:E1635[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Most wonderful and true relation of Master John Macklain minister of Gods word at Lesbury in the county of Northumberland, who being one hundred and sixteen years of age, was miraculously restored to a youthful vigour and complexion, new haire growing upon his head, new teeth in his mouth, and his eyes restored to a most cleer and perfect sight, after the use of spectacles for almost forty years together. As also his recovery to a perfect strength again in every part of his body, so that now he preacheth constantly every Lords day in the parish aforesaid.</title>
+               </titleStmt>
+               <extent>[2], 12, [1] p. : ill. (woodcuts).  </extent>
+               <publicationStmt>
+                  <publisher>Printed for T. Vere &amp; W. Gilberson,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1657.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Final leaf = woodcuts.</note>
+                  <note>Annotation on Thomason copy: "Aprill. 6.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Macklain, John.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:170185:1" rendition="simple:additions"/>
+The moſt WONDERFVL <hi>And true</hi> RELATION of Maſter JOHN
+MACKLAIN Miniſter of Gods Word at <hi>Lesbury</hi> in the County of
+<hi>Nor<g ref="char:EOLhyphen"/>thumberland,</hi> who being one hundred and ſixteen years of age, was
+miraculouſly reſto<g ref="char:EOLhyphen"/>red to a youthful vigour and complexion, new haire
+growing upon his head, new teeth in his mouth, and his eyes reſtored to a
+moſt cleer and perfect ſight, after the uſe of Spec<g ref="char:EOLhyphen"/>tacles for almoſt
+forty years to<g ref="char:EOLhyphen"/>gether.</p>
+            <p>As alſo his recovery to a perfect ſtrength again in every
+part of his body, ſo that now he preacheth conſtantly every Lords day in
+the Pariſh aforeſaid.</p>
+            <p>Printed for T. Vere &amp; W. Gilberſon, 1657.</p>
+         </div>
+      </front>
+      <body>
+         <div n="restoration of youth" type="account">
+            <pb facs="tcp:170185:2"/>
+            <pb n="1" facs="tcp:170185:2"/>
+            <head>A moſt Wonderful and true Relation of Mr <hi>John
+Mark<g ref="char:EOLhyphen"/>lain</hi> Miniſter of Gods Word at <hi>Lesbury</hi> in the County of
+<hi>Northum<g ref="char:EOLhyphen"/>berland,</hi> &amp;c.</head>
+            <p>
+               <seg rend="decorInit">A</seg>L though this age wherein we live hath béen an Age full
+of wonders, and none have béen more frequent or more remarkable then in
+our owne Land: yet this wonder which I ſhall now declare unto you, will be
+ſound to tranſcend all o<g ref="char:EOLhyphen"/>ther Wonders whatſoever.</p>
+            <p>Not only invention, but Hiſtories Ec<g ref="char:EOLhyphen"/>cleſiaſttical and
+Civil, have told us of ſome <pb n="2" facs="tcp:170185:3"/>
+rerſans, who from the grave have
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>een re<g ref="char:EOLhyphen"/>ſtored unto life,
+We have red of the dead Child which was revived by the Prophet, and of the
+wonder wrought by our Savi<g ref="char:EOLhyphen"/>our upon <hi>Lazarus,</hi> who payed to Nature one
+debt more then he owed: But of a man who from the age of one hundred and
+ſix<g ref="char:EOLhyphen"/>téen years was reſtored to a youthfull and vigorous
+conſtitution, to have a new ſtrength of light, to have new téeth,
+and new haire, to receive a new youth in all the faculties of Soul and Body,
+that no age but this no Land but our can parallel.</p>
+            <p>We ſhall find that the Prophet <hi>Daniel,</hi> a though in
+the thankful acknowledgement of Gods mercies to him, he ſaith, <hi>I hou
+haſt renewed my dayes like and Eagle,</hi> ye before all extraordinary
+progreſſe of time he ſtoop<g ref="char:EOLhyphen"/>ed to the infirmities of age, and being
+co<g ref="char:EOLhyphen"/>vered with cloathes he could get no heat; He found that true in himſelf
+which he ſaid of others; <hi>The age of a man is three ſcore and ten, if he
+attain to four ſcore yeers, his dayes are but ſorrow and
+wearineſſe:</hi> But this man of whom we ſpeak being almoſt one hundred
+and twenty years old, had his eyes that were dimm enlightned, and did ſay by
+his Spectacles which before he uſed, he might well take up this in the
+<hi>Ec<g ref="char:EOLhyphen"/>cleſiaſtes,</hi> 
+               <pb n="3" facs="tcp:170185:3"/>
+and make the ſtrength of his age as much his gratitude as his
+wonder. <hi>The Keepers of the houſe did not tremble, nor the ſtrong men
+did bow themſelves, the Grindders did not ceaſe becauſe they were few,
+and thoſe that look out at the win<g ref="char:EOLhyphen"/>dow were not darkned, the Almond tree did
+not as yet flouriſh on his head, the ſil<g ref="char:EOLhyphen"/>ver cord was not looſed, nor the
+golden Bowle broken, nor the pitcher broken at the well, nor the wheele broken
+at the Ci<g ref="char:EOLhyphen"/>ſtorn, &amp;c.</hi>
+            </p>
+            <p>Nevertheleſſe it is not to be diſſembled, that if you
+will wipe off the duſt of Anti<g ref="char:EOLhyphen"/>quity from ſome of the Greek Poem we ſhall
+find that the Father of Jaſon being of a great age, and having a body laden
+with diſeaſes, was made young again by the charmes of his daughter in Law
+A<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>dea, we ſhall read
+alſo of &amp; wonder wrought on <hi>Virbius,</hi> but theſe are inventions
+which have nothing but Fable to maintain their reputation in the world. The
+Narration of this is true, and ſent in Letters from the <hi>North</hi> to
+ſeverall Perſons of almoſt the higheſt account in this Nation.</p>
+            <p>His age was quickned into youth, and it was at this pregnant
+ſeaſon of the yeare, when Winter is quickned into Spring, I
+<pb n="4" facs="tcp:170185:4"/>
+may call it his Renovation, or his Reſur<g ref="char:EOLhyphen"/>rection from the
+ruines of Age, to the ſtrength and beauties of youth. Indéed there are
+many things in nature which ſéem to point at a reſurrection ſuch
+as this, and would perſwade us by their examples to a more eaſie
+entertainment and belief of this Wonder, and in the firſt place,</p>
+            <p>We may look upon the ſolemn Poetry of the <hi>Phonix,</hi> a
+Creature rarer then the Reſurrection, though not ſo admirable, in whoſe
+Aſhes ſhe may ſée the fire of life ex<g ref="char:EOLhyphen"/>pecting to be fammed to the
+reſurrection of a flame as if this Creature by a Riddle of Fate ſhould by a
+fire both periſh and re<g ref="char:EOLhyphen"/>vive, you ſhall find that it recovereth it ſelf
+from diſeaſes and corruptions of age, in<g ref="char:EOLhyphen"/>to the vigour and the courage of
+youth.</p>
+            <p>But in earneſt we may behold the Eagle ſhooting forth her
+new quills, by which ſhe doth teſtific her indeavours and deſires of
+immortality.</p>
+            <p>But why ſhould we in the ſloth of con<g ref="char:EOLhyphen"/>templation ſtudy
+ſo broad an object: Let us with more gracefull induſtry confine our eyes to
+the ſmall ſéed of Corn, and at leaſt take the paines to
+ſée the pains of the Husband man, where behold the delightful
+Arithmatick of Nature, we may ſée the <pb n="5" facs="tcp:170185:4"/>
+ſéed, whoſe hope ſéems ſmall at it ſelf,
+by being caſt away to be found, by deſtruction to receive increaſe, and
+from the ſame ſur<g ref="char:EOLhyphen"/>row to take both its buriall, and its birth.</p>
+            <p>Thus both the divine indulgence gradu<g ref="char:EOLhyphen"/>ally chaſtiſe the
+difficulty of the length of inſtruction, and by things more obvious both
+ſurpaſſe our underſtandings to things that are not, ſo the
+<hi>Phenix</hi> out of her aſhes to reaſſume new life, is both read and
+received: For the <hi>Eagle</hi> to renew her beak and her youth together, is
+approved of by experience. For the ſéed of Corne to riſe up from the
+ſurrow, and to be young again and multiply, is the daily obſerbati<g ref="char:EOLhyphen"/>on of
+the Farmer<g ref="char:punc">▪</g> But for an old man of one hundred and ſixtéen years
+of age, to caſt away at once both his Spectecles and his Crutch, to leap from
+the infirmities of age, into the height and ſtrength at youth<g ref="char:EOLhyphen"/>full age, to
+have his heart warme againe with deſire, and his beins with blood, is ſuch
+a miracle, That not only Reaſon, but Nature her ſelf doth ſtartle at.</p>
+            <p>
+               <hi>Son of man can theſe bones live?</hi> Saith God himſelf
+to the Prophet <hi>Ezekiel,</hi> Thoſe Bones whoſe hopes are as dry, and as
+much exhauſted as is their narrow; This is a Taske for God himſelfe to doe,
+be on<g ref="char:EOLhyphen"/>ly <pb n="6" facs="tcp:170185:5"/>
+can revive him, who did create him; It is he that can bring
+fleſh again upon him, and can gird it about them with ſinews, it is he that
+can cover them with skin, and can cauſe his breath to enter into him, it is
+he alone can beſtow complexion upon him, and having made ſmooth the
+furrows, can plant the flowers of youth, on the brow of Age, it is he alone y<hi rend="sup">t</hi>
+returned the extream age of this old man to a youthfull and vi<g ref="char:EOLhyphen"/>gorous
+conſtitution, and hallowed be his name.</p>
+            <p>There are a generation of men in this age who live like the
+<hi>Sadduces,</hi> as if there were no reſurrection, they adde luſt unto
+oppreſſion, and murder to bypocriſie and vainly minding the glory of this
+world, they quite forget the Kingdome of God, let them therefore underſtand
+and tremble at the apprehenſion of it, the ſame Omni<g ref="char:EOLhyphen"/>potent God that gave
+both health &amp; youth to this aged man, when he had one foote in the grave,
+hath a day at hand, when at the ſound of the Trumpet he will call all fleſh
+to judgement, The oppreſſor ſhall then give an account of his wealth, and
+the con<g ref="char:EOLhyphen"/>querer of his conqueſt, and in what holineſs of Spirit they have
+lived in the height o <pb n="7" facs="tcp:170185:5"/>
+their fortunes, for though Heaven be high, no ſtep ſo
+néere as humility.</p>
+            <p>There is alſo a generation of men, who hanging their Harps on
+the Willows do ſit down on the banks of the rivers, and do increaſe them
+with their tears, who are either lying on the ground, or are laid in it,
+exhecting the reſurrection of the juſt, the ſame God who againſt hope
+did miraculouſ<g ref="char:EOLhyphen"/>ly revive this man unto youth, will raiſe them unto glory,
+for the day is appoaching when corruption ſhall put on incorruption, when
+looſe duſt by the warmth and moi<g ref="char:EOLhyphen"/>ſture of bloud ſhall be kneaded into
+man, when there ſhall be a reſurrection of the grave, of rottenneſſe,
+of ſickneſſe, of the winding ſheet of conſumptions, all which ſhall
+be purified into joy, into ſtrength, into perfect beauty, into a robe of
+glory, into a throne of glory, into life, into health, into immortality; when
+there ſhall be a reno<g ref="char:EOLhyphen"/>vation even of Majeſty it ſelf, whoſe glory which
+ſeemed here to be buried in this world, ſhall then illuſtriouſly
+ariſe in the face of heaven, when the tranſitory condi<g ref="char:EOLhyphen"/>tion of all good men
+living <gap reason="illegible" resp="#OXF" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> mainly be exchanged
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+         </div>
+         <div n="life" type="account">
+            <pb n="8" facs="tcp:170185:6"/>
+            <head>I ſhall now diſſend to give you a par<g ref="char:EOLhyphen"/>ticular account
+of the Birth and Profeſſion of this man, on whom God was pleaſed to
+conferre this VVonder.</head>
+            <p>By Birth he is a <hi>Scotch man,</hi> by Edu<g ref="char:EOLhyphen"/>cation a Schollar,
+bred up in the univerſity of <hi>Scotland</hi> in which having taken his
+degrees, and attained to the formality of Maſter of Arts, he profeſſeth
+the ſtudy of Divinity, and at a Village called <hi>Lesbury</hi> in the County
+of <hi>Northumberland,</hi> ſome five and twenty miles diſtant from
+<hi>New<g ref="char:EOLhyphen"/>caſtle,</hi> he was choſen to be Parſon and Rector of the ſaid
+place: his name is <hi>John Marklaine,</hi> he was noted alwayes to be a great
+Student, and to execute his Fun<g ref="char:EOLhyphen"/>ction with great induſtry and diligence, he
+was ſo temperate of life, and withall ſo ſtrong of conſtitution, that
+notwithſtand<g ref="char:EOLhyphen"/>ing his reſtleſſe lucubratious, he was al<g ref="char:EOLhyphen"/>moſt
+foureſcore before his eye grew dimm or any toth did begin to faile him, when
+he <pb n="9" facs="tcp:170185:6"/>
+was three ſcore and fifteen years of age, or thereabouts, he
+began to uſe Spectacles, which he continuen full forty years toge<g ref="char:EOLhyphen"/>ther,
+untill lately he found by degrees his eye-ſight every day to grow ſtronger
+and ſtronger, and at laſt to be ſo perfect, that without any Spectacles
+he was able to reade the ſmalleſt Print that could be brought unto him.</p>
+            <p>The report of this ſeemed ſo ſtrange to many Miniſters
+and Gentlemen therea<g ref="char:EOLhyphen"/>bout, that they hardly could give any cre<g ref="char:EOLhyphen"/>dit to it,
+untill taking the pains to come to his houſe, their eyes did prove that to be
+true which their ears did heare: and the Wonder thereof being ſpread up and
+down the Country, it did draw many more of all ſorts unto him, who as they
+were Specta<g ref="char:EOLhyphen"/>tors of the bleſſing, ſo they were partakers in the joy, and
+departed giving thanks to God for what they had heard and ſeen.</p>
+            <p>As his eyeſight did improve it ſelfe, ſo did his hearing,
+for hearing before but hea<g ref="char:EOLhyphen"/>vily, and when they did ſpeak aloud unto him, his
+hearing was as quick and perfect as in the time of his ſtrongeſt youth.</p>
+            <p>
+               <pb n="10" facs="tcp:170185:7"/>
+His téeth alſo which were moſt of them decayed, and
+many of them quite loſt by the injury of age, did begin to break forth again,
+and in a ſhort time did appear in as even and as full a row as at the
+firſt.</p>
+            <p>And whereas his haire was but thin be<g ref="char:EOLhyphen"/>fore and gray witth the
+tincture of age, his haire doth grow forth again very thick, and is of the
+ſame complexion as it was when he was but thirty years of age.</p>
+            <p>Neither was this reparation of nature only in his head and
+tongue, for ſpeaking before but ſoftly he now peracheth again very audibly,
+and with a good voice, but his whole body in all the faculties thereof, is
+miraculouſly renewed in his ſtrength, inſo<g ref="char:EOLhyphen"/>much that he now ſtudieth as
+cloſely as in thoſe dayes of his youth when the greateſt imployments were
+upon him &amp; he preach<g ref="char:EOLhyphen"/>eth conſtantly euery Lords day, both in the
+forenoone and in the afternoone, hauing his memory, his apprehenſion and
+elocution as good as at the firſt time when he did take the Miniſtry upon
+him.</p>
+            <p>
+               <pb n="11" facs="tcp:170185:7"/>
+Theſe things being very true, and at<g ref="char:EOLhyphen"/>teſted by a cloud of
+witneſſes, methinks thoſe men who had the Miniſters of the word of God
+in contempt, ſhould now be taught to give them a more mamerly re<g ref="char:EOLhyphen"/>reſpect,
+ſince we ſée that he was here plea<g ref="char:EOLhyphen"/>ſed to make uſe of a
+Miniſter of his word for the manifeſtation of his power. And it is obſer
+bable that he granted to this Mi<g ref="char:EOLhyphen"/>niſter ſo long a time of life, and
+almoſt thirty years beyond the cuſtome of ordina<g ref="char:EOLhyphen"/>ry men, on purpoſe the
+more to manifeſt the greatneſſe of his power, for ſurely it e<g ref="char:EOLhyphen"/>uer any
+man ſince the Creation deſerved to be called <hi>Virbius,</hi> that is to
+ſay, twice a man, it was this Miniſter, what did we think could put new eys
+into this old mans head, but the reſurrection, what could fa<g ref="char:EOLhyphen"/>ſten them in
+his Sums but Reſurrection. That hiſtory of the Téeth that were
+ſow<g ref="char:EOLhyphen"/>ed by <hi>Cadmus,</hi> and of the armed men that ſprang forth thereby,
+though otherwiſe wonderfull, is but a ſluggiſh miracle com<g ref="char:EOLhyphen"/>pared to this.
+It God who is both the re<g ref="char:EOLhyphen"/>ſurrection and the life, who did breach a new into
+this old man the breach of life, it was he that did indue him with a new
+warmth, and did create new ſpirits within him.</p>
+            <p>
+               <pb n="12" facs="tcp:170185:8"/>
+And ſince be hath béen pleaſed to giue us ſo large a
+proof of the diſpenſation of his goodneſſe, let us walk worthy of his
+mer<g ref="char:EOLhyphen"/>cies, and beléeve that he who raiſed this man when he was falling
+into the grave, will alſo raiſe us, and that the manifeſta<g ref="char:EOLhyphen"/>tion of his
+Providence in this is a ſure ſign unto us of the reſurrection ſhortly
+to come, when Age ſhall be exchanged into youth, and imperfection into
+perfection, when all things ſhall be new, when there ſhall be a new Heaven,
+a Earth, and a new Jeruſa<g ref="char:EOLhyphen"/>lem, when the Son of man ſhall appear in the
+Clouds, attended with an innume<g ref="char:EOLhyphen"/>rable company of Angels, who are the Youth of
+Heaven, when the glory of this World ſhall vaniſh into nothing, and God
+ſhall be all in all, to whom be all Honour Dominion, and Obedience, now and
+for over more, <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS. <pb facs="tcp:170185:8"/>
+               <figure>
+                  <figDesc>figure of a man dressed in priest's clothes</figDesc>
+               </figure> 
+               <pb facs="tcp:170185:9"/>
+               <figure>
+                  <figDesc>figure of a man</figDesc>
+               </figure> 
+               <pb facs="tcp:170185:9"/>
+            </trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
